@@ -6,20 +6,20 @@ NeoSphere is an exploration project aimed at delving into the next dimension of 
 
 ## Key Features:
 
-Responsive and intuitive user interface
-Navigation bar for easy access to different sections
-Information about Web3 technologies and services offered
-Showcase of products and projects related to Web3
-Integration of custom cursor animation for enhanced user experience
+Responsive and intuitive user interface<br>
+Navigation bar for easy access to different sections<br>
+Information about Web3 technologies and services offered<br>
+Showcase of products and projects related to Web3<br>
+Integration of custom cursor animation for enhanced user experience<br>
 
 Technologies Used:
 
-Frontend: React.js, Tailwind CSS, InertiaJs, NextJs
-Backend: Laravel
-Database: MySql
-Additional Tools: Framer Motion (for animations), React Router (for routing)
+Frontend: React.js, Tailwind CSS, InertiaJs, NextJs<br>
+Backend: Laravel<br>
+Database: MySql<br>
+Additional Tools: Framer Motion (for animations), React Router (for routing)<br>
 
-Contributing:
+Contributing:<br>
 Contributions to the project are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. Please adhere to the project's coding standards and guidelines.
 
 ## License
