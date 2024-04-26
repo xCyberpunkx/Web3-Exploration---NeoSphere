@@ -12,12 +12,12 @@ Information about Web3 technologies and services offered<br>
 Showcase of products and projects related to Web3<br>
 Integration of custom cursor animation for enhanced user experience<br>
 
-Technologies Used:
+## Technologies Used:
 
-Frontend: React.js, Tailwind CSS, InertiaJs, NextJs<br>
+Frontend: React.js, Tailwind CSS, InertiaJs, framer motion
 Backend: Laravel<br>
 Database: MySql<br>
-Additional Tools: Framer Motion (for animations), React Router (for routing)<br>
+Additional Tools: Framer Motion (for animations), React Router (for routing)<br>, InertiaJS for SSR<br>
 
 Contributing:<br>
 Contributions to the project are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. Please adhere to the project's coding standards and guidelines.
